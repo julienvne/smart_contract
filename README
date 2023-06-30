@@ -52,7 +52,7 @@
 #  it is obtained by applying to                 it is obtained when one is arrested with 
 #  job offers, you can:                          more than 10 crimes, you can:
 #     - Sleep (1x per day)                           - Sleep (1x per day)
-#     - Arresting people (2x per week)               - Try to escape (3 trials)       <- not enough time to implement it
+#     - Arresting people (2x per week)               - Try to escape (3 trials)   <- not enough time to implement it
 #     - Release the prisoners
 #     - Resign      
 #     - Carry out assignments
